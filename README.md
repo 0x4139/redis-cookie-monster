@@ -12,7 +12,7 @@ redis-cookie-monster is a cookie store backed by redis for tough-cookie module.
   `connectionstring` of redis
 
 ## Usage
-
+```javascript
   var request = require('request');
   var CookieMonster = require('../');
   var redisConnectionString = {
@@ -28,7 +28,7 @@ redis-cookie-monster is a cookie store backed by redis for tough-cookie module.
   request('https://0x4139.com', function(err, response, body) {
   	console.log(response.headers['set-cookie']);
   });
-
+```
 ## License
 
  MIT
