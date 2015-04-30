@@ -1,6 +1,6 @@
-# File Cookie Store
+# Redis Cookie Monster
 
-redis-cookie-monster is a cookie store backed by redis for tough-cookie module. 
+redis-cookie-monster is a cookie store backed by redis for tough-cookie module.
 
 
 ## installation
