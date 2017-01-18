@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/0x4139/redis-cookie-monster",
   "dependencies": {
-    "deasync": "^0.0.10",
+    "deasync": "^0.1.9",
     "redis": "^0.12.1",
     "request": "^2.51.0",
     "tough-cookie": "^0.12.1"
